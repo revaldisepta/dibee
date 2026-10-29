@@ -16,7 +16,7 @@ function Footer() {
 
       <div className="border-t border-white/10">
         <div className="mx-auto w-full max-w-6xl px-4 py-4 text-center text-[11px] text-white/70 sm:px-6 lg:px-8">
-          © {currentYear} Karang Taruna The Dibee. All rights reserved.
+          © {currentYear} Kar Taruna The Dibee. All rights reserved.
         </div>
       </div>
     </footer>
