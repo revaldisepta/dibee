@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Setelah domain hosting diketahui, set env SITE_URL lalu jalankan:
+#   $env:SITE_URL="https://domain-anda"; npm run sitemap
+# Script akan mengaktifkan baris Sitemap di bawah secara otomatis.
+# Sitemap: https://domain-anda/sitemap.xml

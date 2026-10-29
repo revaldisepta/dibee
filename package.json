@@ -7,7 +7,13 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "preview": "vite preview",
+    "thumbs": "node scripts/generate-thumbs.mjs",
+    "predev": "npm run thumbs",
+    "prebuild": "npm run thumbs && npm run sitemap",
+    "sitemap": "node scripts/generate-sitemap.mjs"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",
@@ -21,6 +27,8 @@
     "@types/react-dom": "^19.2.7",
     "@vitejs/plugin-react": "^6.1.1",
     "oxlint": "^1.81.0",
+    "prettier": "^3.9.10",
+    "sharp": "^0.35.5",
     "vite": "^8.3.0"
   }
 }

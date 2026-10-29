@@ -1,1 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;1,600&family=Montserrat:wght@400;500;600;700;800&display=swap");
 @import "tailwindcss";
+
+@theme {
+  --font-sans: "Montserrat", sans-serif;
+  --font-display: "Montserrat", sans-serif;
+  --font-editorial: "Cormorant Garamond", serif;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+button,
+a {
+  font-family: "Montserrat", sans-serif;
+}
+
+.editorial-label {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1.15rem;
+  font-style: italic;
+  font-weight: 600;
+}
+
+/* Sembunyikan scrollbar horizontal tanpa menghilangkan fungsi scroll. */
+.scrollbar-hide {
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Fokus keyboard yang jelas di seluruh aplikasi. */
+:focus-visible {
+  outline: 2px solid #6b1f2a;
+  outline-offset: 2px;
+}
