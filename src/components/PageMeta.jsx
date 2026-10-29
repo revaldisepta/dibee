@@ -3,7 +3,7 @@ import { useEffect } from "react";
 const NAMA_SITUS = "Karang Taruna The Dibee";
 const DESKRIPSI_DEFAULT =
   "Website resmi Karang Taruna The Dibee, Desa Dibee, Kecamatan Kalitengah, Lamongan. Informasi kegiatan, berita, dan rencana organisasi.";
-const GAMBAR_DEFAULT = "/og-image.jpg";
+const GAMBAR_DEFAULT = "/og-image.png";
 
 function pasangMeta(atribut, kunci, isi) {
   if (!isi) return;
