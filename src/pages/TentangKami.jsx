@@ -112,38 +112,7 @@ function TentangKami() {
             langsung bagi masyarakat, antara lain:
           </p>
           <ul className="space-y-2">
-            <li className="flex gap-2">
-              <span className="mt-2 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-[#6B1F2A]" />
-              <span>
-                Mengadakan lomba dan perayaan untuk mempererat kebersamaan
-                warga.
-              </span>
-            </li>
-            <li className="flex gap-2">
-              <span className="mt-2 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-[#6B1F2A]" />
-              <span>
-                Menyelenggarakan bazar UMKM untuk mendukung usaha kecil lokal.
-              </span>
-            </li>
-            <li className="flex gap-2">
-              <span className="mt-2 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-[#6B1F2A]" />
-              <span>
-                Menggelar kegiatan olahraga seperti turnamen futsal dan voli.
-              </span>
-            </li>
-            <li className="flex gap-2">
-              <span className="mt-2 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-[#6B1F2A]" />
-              <span>
-                Berpartisipasi dalam gotong royong dan kerja bakti lingkungan.
-              </span>
-            </li>
-            <li className="flex gap-2">
-              <span className="mt-2 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-[#6B1F2A]" />
-              <span>
-                Mengusulkan dan melaksanakan program infrastruktur ringan
-                seperti pemasangan lampu jalan.
-              </span>
-            </li>
+           
           </ul>
         </div>
       </section>
