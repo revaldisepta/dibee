@@ -35,31 +35,18 @@ export const semuaBerita = [
   },
   {
     id: 3,
-    judul: "Rencana Pemasangan Lampu Jalan RT 03",
-    jenis: "rencana",
+    judul: "Pemilihan Ketua Kartar Baru",
+    jenis: "berita",
     tanggal: "2026-10-01",
-    ringkasan:
-      "Karang Taruna mengajukan proposal pemasangan 5 titik lampu jalan di wilayah RT 03 kepada pemerintah desa.",
-    gambar:
-      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
-    isi: "Merespons keluhan warga mengenai minimnya penerangan jalan di wilayah RT 03, Karang Taruna The Dibee mengambil inisiatif untuk menyusun proposal pemasangan lampu jalan. Proposal yang sudah disusun mencakup 5 titik lokasi strategis yang rawan gelap, estimasi biaya, serta sumber dana yang diajukan melalui Dana Desa. Proposal telah diserahkan kepada Kepala Desa dan sedang dalam proses persetujuan.",
+    ringkasan: ".",
+    gambar: "/kegiatan-foto/ketuakartar.jpeg",
+    isi: "",
   },
   {
     id: 4,
-    judul: "Keberhasilan Bazar UMKM: Omset Capai Rp 15 Juta",
-    jenis: "berita",
-    tanggal: "2026-08-22",
-    ringkasan:
-      "Bazar UMKM yang diselenggarakan selama 2 hari berhasil menghasilkan omset total Rp 15 juta dari 20 stan peserta.",
-    gambar:
-      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
-    isi: "Bazar dan Pameran UMKM yang digelar selama dua hari pada 20-21 Agustus 2026 resmi ditutup dengan catatan yang sangat membanggakan. Dari 20 stan peserta yang terdiri dari warga desa dengan usaha rumahan, total omset yang berhasil terkumpul mencapai Rp 15 juta. Produk terlaris meliputi makanan olahan, kerajinan tangan, dan tanaman hias. Karang Taruna berencana mengadakan event serupa dengan skala lebih besar pada tahun depan.",
-  },
-  {
-    id: 5,
     judul: "Rekrutmen Anggota Baru Karang Taruna 2026",
     jenis: "rencana",
-    tanggal: "2026-11-01",
+    tanggal: "2026-09-09",
     ringkasan:
       "Pendaftaran anggota baru dibuka untuk pemuda-pemudi usia 13-40 tahun warga Desa Dibee.",
     gambar:

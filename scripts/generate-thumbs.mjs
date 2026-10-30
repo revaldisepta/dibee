@@ -4,7 +4,7 @@ import sharp from "sharp";
 
 const publicDir = path.resolve("public");
 const ekstensiGambar = /\.(jpe?g|png|webp)$/i;
-const namaDilewati = new Set(["og-image.jpg"]);
+const namaDilewati = new Set(["og-image.jpg", "og-image.png"]);
 
 function cariGambar(direktori) {
   return fs.readdirSync(direktori, { withFileTypes: true }).flatMap((entri) => {
