@@ -13,7 +13,7 @@ function Berita() {
   const tabsBerita = [
     { label: "Semua", value: "semua" },
     { label: "Berita", value: "berita" },
-    { label: "Rencana", value: "rencana" },
+    { label: "Agenda", value: "agenda" },
   ];
 
   // Helper mengembalikan salinan yang sudah urut, lalu difilter jenisnya.
@@ -37,14 +37,15 @@ function Berita() {
 
       {/* JUDUL */}
       <div>
-        <p className="editorial-label mb-3 text-[#6B1F2A]">Berita dan Agenda</p>
+        <p className="editorial-label mb-3 text-[#6B1F2A]">Info Terkini, rencana Masa Depan</p>
 
         <h1 className="text-3xl font-black tracking-tight text-[#171717] sm:text-4xl">
-          Kabar &amp; Agenda.
+          Kabar &amp; <span className="text-[#6B1F2A]">Agenda</span>
+
         </h1>
 
         <p className="mt-3 max-w-2xl text-sm leading-6 text-[#737373] sm:text-base">
-          Informasi terkini dan rencana ke depan dari Karang Taruna The Dibee.
+          Kabar hari ini, rencana esok hari, dan cerita tentang perjalanan bersama.
         </p>
       </div>
 

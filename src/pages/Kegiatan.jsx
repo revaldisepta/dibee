@@ -71,16 +71,16 @@ function Kegiatan() {
       {/* JUDUL */}
       <div className="flex flex-wrap items-end justify-between gap-4">
         <div>
-          <p className="mb-3 text-xs font-semibold uppercase tracking-[0.15em] text-[#6B1F2A]">
+           <p className="editorial-label mb-3 text-[#6B1F2A]">
             Dokumentasi & Aktivitas
           </p>
 
           <h1 className="text-3xl font-black tracking-tight text-[#171717] sm:text-4xl">
-            Kegiatan.
+            Rekam Jejak
           </h1>
 
           <p className="mt-3 max-w-xl text-sm leading-6 text-[#737373] sm:text-base">
-            Dokumentasi seluruh kegiatan Karang Taruna The Dibee.
+            Setiap langkah menyimpan cerita. Setiap tindakan meninggalkan arti bagi Desa Dibee.
           </p>
         </div>
 

@@ -22,7 +22,7 @@ export const daftarPengurus = [
     nama: "GALANG TIRTA",
     jabatan: "WAKIL KETUA",
     keterangan: "Pembantu umum ketua dan menggantikan ketua ketika tidak ada.",
-    foto: "",
+    foto: "/foto-pengurus/dongker.jpg",
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ export const daftarPengurus = [
     nama: "NOVI",
     jabatan: "SEKRETARIS 2",
     keterangan: "Membantu sekretaris umum mengelola administrasi",
-    foto: "",
+    foto: "/foto-pengurus/jisoo.jpg",
   },
   {
     id: 5,
@@ -58,7 +58,7 @@ export const daftarPengurus = [
     nama: "YUSUF FADHILAH",
     jabatan: "SUMBER DAYA",
     keterangan: "Mengelola sumber daya yang ada di organisasi",
-    foto: "",
+    foto: "/foto-pengurus/Itachi2.jpg",
   },
   {
     id: 8,

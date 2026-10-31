@@ -17,11 +17,11 @@ export const semuaBerita = [
   {
     id: 1,
     judul: "Liburan Here We Go",
-    jenis: "rencana",
+    jenis: "agenda",
     tanggal: "2026-10-10",
     ringkasan: "Agenda akhir tahun Liburan bersama pemuda pemudi desa dibee.",
     gambar: "/berita-foto/camp.webp",
-    isi: "Agenda liburan bersama ini untuk merayakan kesuksesan acara pada bulan agustus dan september kemarin, rencananya pemuda pemudi atau warga desa dibee yang ingin ikut meramaikan liburan dengan tujuan utama yaitu camp di pantai.",
+    isi: "Agenda liburan bersama ini untuk merayakan kesuksesan acara pada bulan agustus dan september kemarin, untuk info lebih lanjut tunggu postingan terbaru nanti.",
   },
   {
     id: 2,
@@ -45,7 +45,7 @@ export const semuaBerita = [
   {
     id: 4,
     judul: "Rekrutmen Anggota Baru Karang Taruna 2026",
-    jenis: "rencana",
+    jenis: "agenda",
     tanggal: "2026-09-09",
     ringkasan:
       "Pendaftaran anggota baru dibuka untuk pemuda-pemudi usia 13-40 tahun warga Desa Dibee.",

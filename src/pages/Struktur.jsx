@@ -12,16 +12,15 @@ function Struktur() {
 
       <header className="pt-0">
         <p className="editorial-label mb-3 text-[#6B1F2A]">
-          Karang Taruna Desa Dibee
+          Anomali di Balik Organisasi
         </p>
 
         <h1 className="text-3xl font-black leading-tight tracking-tight text-[#171717] sm:text-4xl">
-          Struktur
-          <span className="block text-[#6B1F2A]">Kepengurusan.</span>
+          Struktur <span className="text-[#6B1F2A]">Kepengurusan</span>
         </h1>
 
         <p className="mt-4 max-w-xl text-sm leading-7 text-[#737373] sm:text-base">
-          Satu tujuan, satu gerakan, bersama membangun Desa Dibee.
+          Berbeda tanggung jawab, satu komitmen untuk tumbuh dan bergerak bersama.
         </p>
 
         <div className="mt-5">
@@ -35,13 +34,9 @@ function Struktur() {
         <div className="mb-6 flex items-end justify-between gap-4">
           <div>
             <p className="mb-2 text-xs font-bold uppercase tracking-[0.2em] text-[#6B1F2A]">
-              Sosok asli di balik organisasi
+              Sosok Asli
             </p>
           </div>
-
-          <span className="hidden text-sm text-[#737373] sm:block">
-            Desa Dibee
-          </span>
         </div>
 
         <div className="grid grid-cols-2 gap-4 sm:gap-5 md:grid-cols-3 lg:grid-cols-4">

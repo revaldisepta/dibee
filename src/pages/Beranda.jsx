@@ -48,7 +48,7 @@ function Beranda() {
           alt=""
           aria-hidden="true"
           decoding="async"
-          className="pointer-events-none absolute left-1/2 top-[44%]
+          className="pointer-events-none absolute left-1/2 top-[48%]
                h-[98%] w-[98%] -translate-x-1/2 -translate-y-1/2
                object-contain opacity-[0.10]"
         />
@@ -97,7 +97,7 @@ function Beranda() {
         <div className="mb-6 space-y-2">
           <div>
             <h2 className="text-2xl font-bold text-gray-800">
-              Kegiatan Terbaru
+              Rekam Jejak
             </h2>
             <p className="text-sm text-gray-500">
               Klik kartu untuk melihat detail kegiatan
@@ -152,7 +152,7 @@ function Beranda() {
         <div className="mb-6 space-y-2">
           <div>
             <h2 className="text-2xl font-bold text-gray-800">
-              Berita & Rencana
+              Kabar & Agenda
             </h2>
             <p className="text-sm text-gray-500">
               Informasi terkini dari Karang Taruna The Dibee
